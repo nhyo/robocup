@@ -2,7 +2,7 @@
 
 An STM32F407VETx-based smart car control project featuring vehicle control, encoder feedback and PWM, LiDAR data processing, ESP-01S/W5500 network communication, and a Python tool for receiving and visualizing point cloud data.
 
-nhyo：唉，也是希望有人能发扬光大吧（悲
+nhyo：唉，也是希望有人能用得上吧（悲
 ## 主要内容
 
 - STM32F407VETx 固件工程（Keil MDK-ARM）
