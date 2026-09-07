@@ -1,4 +1,4 @@
-# NHYO Smart Car
+# My robocup
 
 An STM32F407VETx-based smart car control project featuring vehicle control, encoder feedback and PWM, LiDAR data processing, ESP-01S/W5500 network communication, and a Python tool for receiving and visualizing point cloud data.
 
