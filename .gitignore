@@ -1,0 +1,45 @@
+# Keil and compiler outputs
+MDK-ARM/RACE/
+MDK-ARM/DebugConfig/
+Objects/
+Listings/
+*.o
+*.obj
+*.d
+*.crf
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.lnp
+*.dep
+
+# Personal IDE state
+*.uvguix.*
+*.uvoptx
+*.log
+*.lock
+JLinkSettings.ini
+.vscode/
+.idea/
+
+# Python local state
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Captured data and archives
+*.npy
+*.zip
+*.rar
+*.7z
+
+# Temporary files
+~$*
+*.tmp
+*.bak
+Thumbs.db
+Desktop.ini
